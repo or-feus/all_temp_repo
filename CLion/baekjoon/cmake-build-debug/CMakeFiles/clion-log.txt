@@ -1,0 +1,41 @@
+"/Users/feus/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/feus/JetBrains/CLion/baekjoon -B /Users/feus/JetBrains/CLion/baekjoon/cmake-build-debug
+-- The C compiler identification is AppleClang 13.1.6.13160021
+-- The CXX compiler identification is AppleClang 13.1.6.13160021
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - broken
+CMake Error at /Users/feus/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeTestCCompiler.cmake:69 (message):
+  The C compiler
+
+    "/Library/Developer/CommandLineTools/usr/bin/cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /Users/feus/JetBrains/CLion/baekjoon/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):/usr/bin/make -f Makefile cmTC_660a9/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_660a9.dir/build.make CMakeFiles/cmTC_660a9.dir/build
+    Building C object CMakeFiles/cmTC_660a9.dir/testCCompiler.c.o
+    /Library/Developer/CommandLineTools/usr/bin/cc   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_660a9.dir/testCCompiler.c.o -MF CMakeFiles/cmTC_660a9.dir/testCCompiler.c.o.d -o CMakeFiles/cmTC_660a9.dir/testCCompiler.c.o -c /Users/feus/JetBrains/CLion/baekjoon/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+    Linking C executable cmTC_660a9
+    "/Users/feus/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E cmake_link_script CMakeFiles/cmTC_660a9.dir/link.txt --verbose=1
+    /Library/Developer/CommandLineTools/usr/bin/cc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_660a9.dir/testCCompiler.c.o -o cmTC_660a9 
+    ld: library not found for -lSystem
+    clang: error: linker command failed with exit code 1 (use -v to see invocation)
+    make[1]: *** [cmTC_660a9] Error 1
+    make: *** [cmTC_660a9/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/feus/JetBrains/CLion/baekjoon/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/feus/JetBrains/CLion/baekjoon/cmake-build-debug/CMakeFiles/CMakeError.log".

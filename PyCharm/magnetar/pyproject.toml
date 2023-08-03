@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "magnetar"
+version = "0.1.0"
+description = ""
+authors = ["feus <barca105@nate.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.100.0"
+uvicorn = "^0.23.1"
+pytest = "^7.4.0"
+pydantic = {extras = ["dotenv"], version = "^2.1.1"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

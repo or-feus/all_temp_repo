@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "my-project"
+version = "0.1.0"
+description = ""
+authors = ["feus <barca105@nate.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Flask = "^2.3.2"
+redis = "^4.6.0"
+Flask-Injector = "^0.14.0"
+pylint = "^2.17.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

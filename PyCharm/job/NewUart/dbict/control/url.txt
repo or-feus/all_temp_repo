@@ -1,0 +1,1 @@
+http://61.211.241.239/nphMotionJpeg?Resolution=320x240&Quality=Standard

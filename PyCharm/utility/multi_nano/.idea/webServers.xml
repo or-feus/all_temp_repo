@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b8e25dfb-90f2-4577-9863-8577d574ae61" name="multi_nano">
+        <fileTransfer accessType="SFTP" host="192.168.1.100" port="22" sshConfigId="b252de55-8220-404d-8997-b46f82c5eb7e" sshConfig="user@192.168.1.100:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/hanhwa_nano" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/left_detectnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_detection/jetson-inference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_detection/jetson-inference/build/torchvision-36" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_detection/jetson-inference/python/training/classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_detection/jetson-inference/python/training/detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_detection/jetson-inference/python/training/detection/ssd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_detection/jetson-inference/python/training/segmentation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_detection/jetson-inference/tools/camera-capture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/org_detection/jetson-inference/utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xavier_tracker" vcs="Git" />
+  </component>
+</project>

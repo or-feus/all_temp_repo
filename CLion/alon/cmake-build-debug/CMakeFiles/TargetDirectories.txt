@@ -1,0 +1,3 @@
+/Users/feus/JetBrains/CLion/alon/cmake-build-debug/CMakeFiles/alon.dir
+/Users/feus/JetBrains/CLion/alon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feus/JetBrains/CLion/alon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

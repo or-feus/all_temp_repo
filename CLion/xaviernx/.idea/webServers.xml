@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e85afeed-0a57-4ca4-954f-002ffba00d72" name="reverse_tracker">
+        <fileTransfer accessType="SFTP" host="192.168.1.100" port="22" sshConfigId="3bb05ada-09ac-4001-98b2-31dce4fe6192" sshConfig="user@192.168.1.100:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

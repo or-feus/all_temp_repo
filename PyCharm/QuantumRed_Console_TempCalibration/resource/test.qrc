@@ -1,0 +1,64 @@
+<RCC>
+  <qresource prefix="button">
+    <file>resource/BUTTON/START_PRESSED.png</file>
+    <file>resource/BUTTON/STOP_PRESSED.png</file>
+    <file>resource/BUTTON/REC.png</file>
+    <file>resource/BUTTON/REC_HOVER.png</file>
+    <file>resource/BUTTON/REC_PRESSED.png</file>
+    <file>resource/BUTTON/SNAPSHOT.png</file>
+    <file>resource/BUTTON/SNAPSHOT_HOVER.png</file>
+    <file>resource/BUTTON/SNAPSHOT_PRESSED.png</file>
+    <file>resource/BUTTON/START_PRESSED.png</file>
+    <file>resource/BUTTON/STOP_ING.png</file>
+    <file>resource/BUTTON/DISCONNECT.png</file>
+    <file>resource/BUTTON/DISCONNECT_HOVER.png</file>
+    <file>resource/BUTTON/CLOSE_HOVER.png</file>
+    <file>resource/BUTTON/CONNECT_HOVER.png</file>
+    <file>resource/BUTTON/DISCONNECT_HOVER.png</file>
+    <file>resource/BUTTON/INIT_HOVER.png</file>
+    <file>resource/BUTTON/OPEN_HOVER.png</file>
+    <file>resource/BUTTON/PLAY_HOVER.png</file>
+    <file>resource/BUTTON/RESOLUTION_HOVER.png</file>
+    <file>resource/BUTTON/SAVE_HOVER.png</file>
+    <file>resource/BUTTON/START_HOVER.png</file>
+    <file>resource/BUTTON/STOP_HOVER.png</file>
+    <file>resource/BUTTON/UPDATE_HOVER.png</file>
+    <file>resource/BUTTON/CLOSE.png</file>
+    <file>resource/BUTTON/CONNECT.png</file>
+    <file>resource/BUTTON/DISCONNECT.png</file>
+    <file>resource/BUTTON/INIT.png</file>
+    <file>resource/BUTTON/OPEN.png</file>
+    <file>resource/BUTTON/PLAY.png</file>
+    <file>resource/BUTTON/RESOLUTION.png</file>
+    <file>resource/BUTTON/SAVE.png</file>
+    <file>resource/BUTTON/START.png</file>
+    <file>resource/BUTTON/STOP.png</file>
+    <file>resource/BUTTON/UPDATE.png</file>
+  </qresource>
+  <qresource prefix="ICON">
+    <file>ICON.ico</file>
+    <file>resource/ICON/001-sunny.png</file>
+    <file>resource/ICON/018-happy.png</file>
+    <file>resource/ICON/023-play.png</file>
+    <file>resource/ICON/035-camera-5.png</file>
+    <file>resource/ICON/044-right.png</file>
+    <file>resource/ICON/078-flash-2.png</file>
+    <file>resource/ICON/133-camera-1.png</file>
+    <file>resource/ICON/154-camera.png</file>
+  </qresource>
+  <qresource prefix="pixmap">
+    <file>resource/배경화면/boot_img.png</file>
+    <file>resource/배경화면/구성 요소 10 _ 1.png</file>
+    <file>resource/배경화면/배경화면.png</file>
+  </qresource>
+  <qresource prefix="TEXT">
+    <file>resource/TEXT/Device.png</file>
+    <file>resource/TEXT/TARGET.png</file>
+    <file>resource/TEXT/REF.png</file>
+    <file>resource/TEXT/VIDEO CONTROL.png</file>
+    <file>resource/TEXT/BAUDRATE.png</file>
+    <file>resource/TEXT/PORT.png</file>
+    <file>resource/TEXT/VIDEO CONTROL.png</file>
+    <file>resource/TEXT/UVC_CONTROL.png</file>
+  </qresource>
+</RCC>

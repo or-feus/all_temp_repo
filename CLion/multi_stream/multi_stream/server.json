@@ -1,0 +1,43 @@
+{
+  "road_name": "하이필드",
+  "can_id": 13,
+  "network": {
+    "ip": "192.168.1.135",
+    "subnet": "255.255.255.0",
+    "gateway": "192.168.1.1"
+  },
+  "error_check": {
+    "can": false,
+    "lmb": false
+  },
+  "nano": {
+    "active_numbers": 2,
+    "machine": [
+      {
+        "number": 1,
+        "ip": "http://59.14.95.196:8888/cam",
+        "active": true,
+        "region_vector": "1 2 3 4 5 6 7 8 9 10",
+        "signal_control": {
+          "force_generate": false,
+          "force_not_generate": true
+        },
+        "std_dev_value": 4
+      },
+      {
+        "number": 2,
+        "ip": "http://59.14.95.196:8888/cam",
+        "active": false,
+        "region_vector": "1 2 3 4 5 6 7 8 9 10",
+        "signal_control": {
+          "force_generate": true,
+          "force_not_generate": true
+        },
+        "std_dev_value": 8
+      }
+    ]
+  },
+  "update": true,
+  "update_type": "zz",
+  "region_vector": "164 76 75 152 171 184 274 118 243 52 "
+}

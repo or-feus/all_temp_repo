@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": false, // 자바스크립트의 컴파일을 허용
+    "skipLibCheck": true, // 모든 선언 파일(*.d.ts)의 타입 검사를 건너뜀
+
+    /*
+     * 모든 엄격한 타입 검사 옵션을 활성화합니다.
+     * --strict를 활성화하면 --noImplicitAny, --noImplicitThis,
+     * --alwaysStrict, --strictNullChecks 및 --strictFunctionTypes 이 가능합니다.
+     */
+    "strict": false,
+
+    "forceConsistentCasingInFileNames": true,  // 동일 파일 참조에 대해 일관성 없는 대소문자를 비활성화합니다
+    "noEmit": true, // 출력을 내보내지 않습니다
+
+    /*
+     * 런타임 바벨 생태계 호환성을 위한 __importStar와 __importDefault 헬퍼를 내보내고 타입 시스템 호환성을 위해 --allowSyntheticDefaultImports를 활성화합니다.
+     */
+    "esModuleInterop": true,
+
+    "module": "esnext",
+    "moduleResolution": "node", // 모듈 해석방법 결정 node or classic 중 하나
+    "resolveJsonModule": true, //.json 확장자로 import된 모듈을 포함합니다.
+//    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": ["next-env.d.ts", "*.ts", "*.tsx"],
+  "exclude": ["node_modules"]
+}

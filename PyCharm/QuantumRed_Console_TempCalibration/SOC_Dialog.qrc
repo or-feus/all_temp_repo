@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="Button">
+    <file>resource/BUTTON/GUIDE_SAVE.png</file>
+    <file>resource/BUTTON/GUIDE_SAVE_HOVER.png</file>
+    <file>resource/BUTTON/GUIDE_SAVE_PRESSED.png</file>
+    <file>resource/BUTTON/PATTERN_VIEW_HOVER.png</file>
+    <file>resource/BUTTON/RAW_VIEW_HOVER.png</file>
+    <file>resource/BUTTON/PROCESS_END_HOVER.png</file>
+    <file>resource/BUTTON/1_REF_NUC_HOVER.png</file>
+    <file>resource/BUTTON/CEM_OFF_HOVER.png</file>
+    <file>resource/BUTTON/CEM_ON_HOVER.png</file>
+    <file>resource/BUTTON/DEBUG_MODE_HOVER.png</file>
+    <file>resource/BUTTON/NUC_VIEW_HOVER.png</file>
+    <file>resource/BUTTON/OPERATE_MODE_HOVER.png</file>
+    <file>resource/BUTTON/TEC_OFF_HOVER.png</file>
+    <file>resource/BUTTON/TEC_ON_HOVER.png</file>
+    <file>resource/BUTTON/VIEWER_MODE_HOVER.png</file>
+    <file>resource/BUTTON/1_REF_NUC.png</file>
+    <file>resource/BUTTON/CEM_OFF.png</file>
+    <file>resource/BUTTON/CEM_ON.png</file>
+    <file>resource/BUTTON/DEBUG_MODE.png</file>
+    <file>resource/BUTTON/NUC_VIEW.png</file>
+    <file>resource/BUTTON/OPERATE_MODE.png</file>
+    <file>resource/BUTTON/PATTERN_VIEW.png</file>
+    <file>resource/BUTTON/PROCESS_END.png</file>
+    <file>resource/BUTTON/RAW_VIEW.png</file>
+    <file>resource/BUTTON/TEC_OFF.png</file>
+    <file>resource/BUTTON/TEC_ON.png</file>
+    <file>resource/BUTTON/VIEWER_MODE.png</file>
+  </qresource>
+  <qresource prefix="ICON">
+    <file>ICON.ico</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,161 @@
+<RCC>
+  <qresource prefix="BTN">
+    <file>resource/BUTTON/REC.png</file>
+    <file>resource/BUTTON/REC_HOVER.png</file>
+    <file>resource/BUTTON/REC_PRESSED.png</file>
+    <file>resource/BUTTON/CEM_OFF.png</file>
+    <file>resource/BUTTON/CEM_OFF_HOVER.png</file>
+    <file>resource/BUTTON/CEM_OFF_PRESSED.png</file>
+    <file>resource/BUTTON/CEM_ON.png</file>
+    <file>resource/BUTTON/CEM_ON_HOVER.png</file>
+    <file>resource/BUTTON/CEM_ON_PRESSED.png</file>
+    <file>resource/BUTTON/UPDATE.png</file>
+    <file>resource/BUTTON/UPDATE_HOVER.png</file>
+    <file>resource/BUTTON/UPDATE_PRESSED.png</file>
+    <file>resource/BUTTON/UPDATE.png</file>
+    <file>resource/BUTTON/UPDATE_HOVER.png</file>
+    <file>resource/BUTTON/UPDATE_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/GUIDE_OFF_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/GUIDE_ON.png</file>
+    <file>resource/QuantumRED_MAIN/GUIDE_OFF.png</file>
+    <file>resource/QuantumRED_MAIN/GUIDE_OFF_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/GUIDE_ON_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/GUIDE_ON_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_PERIOD.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_PERIOD_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_PERIOD_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_PERIOD_STOP.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_PERIOD_STOP_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_PERIOD_STOP_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/NUC.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/NUC_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/REF_ADJ.png</file>
+    <file>resource/QuantumRED_MAIN/REF_ADJ_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/REF_ADJ_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/SET_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/SET.png</file>
+    <file>resource/QuantumRED_MAIN/SET_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/SET_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/DISCONNECT.png</file>
+    <file>resource/QuantumRED_MAIN/DISCONNECT_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/DISCONNECT_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/DISCONNECT_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/COLOR_OFF_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/COLOR_ON_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/CONNECT_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/EDGE_OFF_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/EDGE_ON_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/EZOOM_OFF_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/EZOOM_ON_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/NF_OFF_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/NF_ON_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/REFRESH_DISABLE.png</file>
+    <file>resource/QuantumRED_MAIN/REC_STOP.png</file>
+    <file>resource/QuantumRED_MAIN/REC_STOP_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/REC_STOP_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/REC_STOP.png</file>
+    <file>resource/QuantumRED_MAIN/REC_STOP_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/REC_STOP_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/EZOOM_OFF.png</file>
+    <file>resource/QuantumRED_MAIN/EZOOM_OFF_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/EZOOM_OFF_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/EZOOM_ON.png</file>
+    <file>resource/QuantumRED_MAIN/EZOOM_ON_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/EZOOM_ON_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/COLOR_OFF.png</file>
+    <file>resource/QuantumRED_MAIN/COLOR_OFF_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/COLOR_OFF_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/COLOR_ON.png</file>
+    <file>resource/QuantumRED_MAIN/COLOR_ON_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/COLOR_ON_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/EDGE_OFF.png</file>
+    <file>resource/QuantumRED_MAIN/EDGE_OFF_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/EDGE_OFF_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/EDGE_ON.png</file>
+    <file>resource/QuantumRED_MAIN/EDGE_ON_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/EDGE_ON_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/NF_OFF.png</file>
+    <file>resource/QuantumRED_MAIN/NF_OFF_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/NF_OFF_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/NF_ON.png</file>
+    <file>resource/QuantumRED_MAIN/NF_ON_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/NF_ON_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/REFRESH.png</file>
+    <file>resource/QuantumRED_MAIN/REFRESH_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/REFRESH_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/PLAY_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/PLAY_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/REC_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/REC_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/SNAPSHOT_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/SNAPSHOT_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/PLAY.png</file>
+    <file>resource/QuantumRED_MAIN/REC.png</file>
+    <file>resource/QuantumRED_MAIN/SNAPSHOT.png</file>
+    <file>resource/QuantumRED_MAIN/CONNECT_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/CONNECT_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/CONNECT.png</file>
+    <file>resource/QuantumRED_MAIN/CAMERA_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/CAMERA_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/CONTROL_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/CONTROL_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/SETTING_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/SETTING_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/CAMERA.png</file>
+    <file>resource/QuantumRED_MAIN/CONTROL.png</file>
+    <file>resource/QuantumRED_MAIN/SETTING.png</file>
+  </qresource>
+  <qresource prefix="TEXT">
+    <file>resource/TEXT/Contrast Enhancement.png</file>
+    <file>resource/TEXT/BAUDRATE.png</file>
+    <file>resource/TEXT/PORT.png</file>
+    <file>resource/TEXT/TARGET.png</file>
+    <file>resource/TEXT/TARGET.png</file>
+    <file>resource/QuantumRED_MAIN/SNAPSHOT DIRECTORY.png</file>
+    <file>resource/QuantumRED_MAIN/VIDEO REC DIRECTORY.png</file>
+    <file>resource/QuantumRED_MAIN/Edge Enhancement.png</file>
+    <file>resource/QuantumRED_MAIN/Electric Zoom.png</file>
+    <file>resource/QuantumRED_MAIN/Noise Filter.png</file>
+    <file>resource/QuantumRED_MAIN/Pseudo Color.png</file>
+    <file>resource/QuantumRED_MAIN/STATUS_DISPLAY.png</file>
+    <file>resource/QuantumRED_MAIN/TEMP_DISPLAY.png</file>
+    <file>resource/QuantumRED_MAIN/REF.png</file>
+    <file>resource/QuantumRED_MAIN/STATUS_DISPLAY.png</file>
+    <file>resource/QuantumRED_MAIN/TARGET.png</file>
+    <file>resource/QuantumRED_MAIN/TEMP_DISPLAY.png</file>
+    <file>resource/QuantumRED_MAIN/CAM_SEL.png</file>
+    <file>resource/QuantumRED_MAIN/IMG_FORMAT.png</file>
+    <file>resource/QuantumRED_MAIN/QuantumRED_TEXT.png</file>
+  </qresource>
+  <qresource prefix="BACKSHEET">
+    <file>resource/배경화면/QuantumRED Viewer.png</file>
+    <file>resource/배경화면/그룹 296.png</file>
+    <file>resource/배경화면/boot_img.png</file>
+    <file>resource/QuantumRED_MAIN/VIEWER_LOADING.png</file>
+    <file>resource/QuantumRED_MAIN/DASHBOARD.png</file>
+    <file>resource/QuantumRED_MAIN/PIXMAP.png</file>
+  </qresource>
+  <qresource prefix="ICON">
+    <file>resource/ICON/004-camera.png</file>
+    <file>resource/QuantumRED_MAIN/DOWN.png</file>
+    <file>resource/QuantumRED_MAIN/LEFT.png</file>
+    <file>resource/QuantumRED_MAIN/RIGHT.png</file>
+    <file>resource/QuantumRED_MAIN/UP.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_CLOSE_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_CLOSE_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_DOWN_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_DOWN_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_MAXIMIZE_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_MAXIMIZE_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_CLOSE.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_DOWN.png</file>
+    <file>resource/QuantumRED_MAIN/WINDOW_MAXIMIZE.png</file>
+    <file>resource/QuantumRED_MAIN/HANWHA_SYTEMS_MINI.png</file>
+    <file>resource/QuantumRED_MAIN/menu_HOVER.png</file>
+    <file>resource/QuantumRED_MAIN/menu_PRESSED.png</file>
+    <file>resource/QuantumRED_MAIN/HANWHA_SYSTEMS.png</file>
+    <file>resource/QuantumRED_MAIN/menu.png</file>
+  </qresource>
+</RCC>

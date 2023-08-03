@@ -1,0 +1,3 @@
+/Users/feus/JetBrains/CLion/cleanSW/cmake-build-debug/CMakeFiles/cleanSW.dir
+/Users/feus/JetBrains/CLion/cleanSW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feus/JetBrains/CLion/cleanSW/cmake-build-debug/CMakeFiles/rebuild_cache.dir

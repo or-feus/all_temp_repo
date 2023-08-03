@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c4003aa4-1b0a-4cb1-b9a7-49c60d0bc6c0" name="py-inference">
+        <fileTransfer accessType="SFTP" host="192.168.1.100" port="22" sshConfigId="56698d80-b6b8-4140-acf8-7661becc0ebf" sshConfig="user@192.168.1.100:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
