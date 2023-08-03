@@ -1,3 +1,1 @@
-# all_temp_repo
-# all_temp_repo
-# all_temp_repo
+# 임시디렉토리
